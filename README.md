@@ -5,6 +5,7 @@ see the result on : [https://pa-fnl.github.io/ecf1-paul/](https://pa-fnl.github.
 ## Project Overview
 
 This project is a simple one-page website developed as part of the ECF1 evaluation for DWWM certification. It showcases the use of HTML, CSS, and JavaScript to create dynamic and responsive content.
+Certain design elements (such as the banner and logo) were imposed as part of the evaluation requirements.
 
 ## Features
 
